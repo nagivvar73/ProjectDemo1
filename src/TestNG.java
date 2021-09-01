@@ -12,4 +12,9 @@ public class TestNG
     {
         System.out.println("Function2");
     }
+    @Test
+    public void function3()
+    {
+        System.out.println("Function3");
+    }
 }
